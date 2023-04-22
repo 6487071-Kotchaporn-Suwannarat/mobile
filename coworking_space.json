@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "email" : "oporkcp@gmail.com",
+    "sizeroom" : "Large",
+    "guests" : 3,
+    "table" : "Square",
+    "chair_count" : 3,
+    "date" :  "2023-04-22",
+    "time" : "7:00"
+  },
+  {
+    "id" : 2,
+    "email" : "icebsk@gmail.com",
+    "sizeroom" : "Medium",
+    "guests" : 2,
+    "table" : "Rectangle",
+    "chair_count" : 2,
+    "date" :  "2023-04-22",
+    "time" : "13:45"
+  }
+]
