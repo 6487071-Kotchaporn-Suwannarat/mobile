@@ -1,50 +1,57 @@
 [
   {
     "id" : 1,
-    "namecowork" : "TrueSpace",
-    "description" : "Located in the area of Mahidol University, Salaya",
-    "image_url" : "https://cms.dmpcdn.com/food/2022/01/24/5657b7b0-7cca-11ec-8c56-b759fb36387f_webp_original.jpg"
+    "namecowork" : "Samyan Co-Op",
+    "description" : "Co-Learning Space in a good atmosphere. Sit and enjoy. There are many zones. Plus, it's convenient to travel because it's next to Sam Yan MRT.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web216.jpg"
   },
   {
     "id" : 2,
     "namecowork" : "TTA SPACE BY DRAFTBOARD",
     "description" : "TA Space by DraftBoard, clear atmosphere suitable for changing workplaces Easy to get inspired There are complete facilities. whole corner relax drink bar corner",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://pintrip.in.th/i/blog/5f1a9hKnnxKSLxMfhStVuoASUNXD3V0EqTVuYYWx.jpeg"
   },
   {
     "id" : 3,
     "namecowork" : "JUSTCO",
     "description" : "JustCo is a co-working space based in Singapore. Every proportion of the space is beautiful furniture and pleasant to sit in. Spacious, airy, with proportions in different zones.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://pintrip.in.th/i/blog/omobRHtmJ0SacDmsYrzC0czOCZtTYfHxGSzIDQLW.jpeg"
-  },
-  {
+  },{
     "id" : 4,
-    "namecowork" : "Samyan Co-Op",
-    "description" : "Co-Learning Space in a good atmosphere. Sit and enjoy. There are many zones. Plus, it's convenient to travel because it's next to Sam Yan MRT.",
-    "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web216.jpg"
+    "namecowork" : "TrueSpace",
+    "description" : "Located in the area of Mahidol University, Salaya",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "image_url" : "https://cms.dmpcdn.com/food/2022/01/24/5657b7b0-7cca-11ec-8c56-b759fb36387f_webp_original.jpg"
   },
   {
     "id" : 5,
     "namecowork" : "NapLap",
     "description" : "Co-Napping Workspace in yellow, eye-catching design, comfortable atmosphere like at home. Inside the shop, there are many zones to choose from.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web218.jpg"
   },
   {
     "id" : 6,
     "namecowork" : "Spaces",
     "description" : "There is a co-working space that can be converted into an event space. Including the workshop as well.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web220.jpg"
   },
   {
     "id" : 7,
     "namecowork" : "Class Cafe (SID)",
     "description" : "Cafe and Co-Working Space in the heart of Siam Square The shop's style is airy and comfortable. Suitable for reading and working",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web26-12.jpg"
   },
   {
     "id" : 8,
     "namecowork" : "Too Fast To Sleep SCB",
     "description" : "Cafe and Co-Working Space that no matter how late it is. The store is always open and welcoming with 24-hour service.",
+    "categories" : "• Wifi • Coffee • Meeting Room",
     "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web25-17.jpg"
   }
 ]
