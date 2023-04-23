@@ -61,5 +61,21 @@
     "categories" : "• Wifi • Coffee • Meeting Room",
     "logo" : "https://static.estopolis.com/article/5982b1b815f02062a0dbd67e_5982d7fe15f02062a0dbd685.jpg",
     "image_url" : "https://www.bltbangkok.com/wp-content/uploads/2021/06/web25-17.jpg"
+  },
+  {
+    "id" : 9,
+    "namecowork" : "Wolf Co-working Space",
+    "description" : "Interesting Co-Working space for Bangkok residents because there are many types of working rooms Suitable for both group tutoring Group tutoring hold a company meeting or do officeใ",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/327447745_917548172918738_374021565410477114_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=X_vDZKQ4N5gAX_7kEYt&_nc_ht=scontent.fbkk5-7.fna&oh=00_AfBy04BMmdcW0g-5-DiS2d_r2vUrwJvvefezNyQiI3BlLA&oe=644915BB",
+    "image_url" : "https://i.pinimg.com/736x/e1/3a/b1/e13ab1b10aa8d4af91f768fa4fdb545e--wolf.jpg"
+  },
+  {
+    "id" : 10,
+    "namecowork" : "The Rabbit Hub",
+    "description" : "Co-Working space with a lovely atmosphere There are both snacks and drinks for sale. whole zone to work Whether reading a personal book group tutoring or business meetingใ",
+    "categories" : "• Wifi • Coffee • Meeting Room",
+    "logo" : "https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/305288726_607290250901230_7417011751027420935_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eRwWpf5tySoAX_HN14F&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfAY23MX8UcbV1FQTJpdHZcWwH7asFOmCS5kFBUCyCAyog&oe=64492899",
+    "image_url" : "https://venuee.s3-ap-southeast-1.amazonaws.com/2018/08/21/l/405gzp18jl3f7937.jpg"
   }
 ]
